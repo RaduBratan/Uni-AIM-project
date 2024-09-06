@@ -1,2 +1,1 @@
-# Uni-AIM-project
-Proiect la materia AMI realizat de Radu-George Bratan, grupa 242
+This is a project I created for my Archeology of Intelligent Machines class at UniBuc FMI.
